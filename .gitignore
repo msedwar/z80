@@ -1,0 +1,5 @@
+.pyre/
+.vscode/
+.*
+!.gitignore
+!.pyre_configuration
